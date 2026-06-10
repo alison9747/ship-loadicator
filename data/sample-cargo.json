@@ -1,0 +1,25 @@
+{
+  "cargo": [
+    {
+      "id": 1,
+      "name": "Container A1",
+      "weight": 500,
+      "position": 30,
+      "compartment": "Forward"
+    },
+    {
+      "id": 2,
+      "name": "Container A2",
+      "weight": 750,
+      "position": 50,
+      "compartment": "Mid"
+    },
+    {
+      "id": 3,
+      "name": "Container B1",
+      "weight": 600,
+      "position": 70,
+      "compartment": "Aft"
+    }
+  ]
+}
